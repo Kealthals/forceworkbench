@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Kealthals/forceworkbench.svg?branch=master)](https://travis-ci.org/Kealthals/forceworkbench)
+
 ![Workbench](http://s3.amazonaws.com/dfc-wiki/en/images/b/b5/Workbench_logo.png)
 
 Workbench is a powerful, web-based suite of tools designed for
